@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durdana Sultana</h1>
 <h3 align="center">A passionate Web developer and Programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durdana3105" alt="durdana3105" /></a> </p>
-
 - 🌱 I’m currently learning **DSA,SDE, AI and ML**
 
 - 💬 Ask me about **Frontened**
