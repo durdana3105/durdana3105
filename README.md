@@ -1,12 +1,30 @@
-<!-- 💜 ULTRA PREMIUM AESTHETIC HEADER -->
+<!-- 💜 HEADER + SIDE IMAGE -->
+
+<table>
+<tr>
+
+<td width="65%">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8A5C2,100:F78FB3&height=200&section=header&text=Durdana%20Sultana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=26&duration=3000&color=F78FB3&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress+🧠;Full+Stack+Developer+💻;Hackathon+Builder+🚀;Consistency+is+my+Superpower+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=26&duration=3000&color=F78FB3&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress+🧠;Full+Stack+Developer+💻;Hackathon+Builder+🚀;Consistency+is+my+Superpower+✨" />
 </p>
+
+</td>
+
+<td width="50%" align="right">
+
+<img src="https://raw.githubusercontent.com/durdana3105/durdana3105/refs/heads/main/1042287c-a82f-489e-bab0-3c832852aa3d.png"
+width="500"
+style="border-radius:20px; box-shadow:0 0 40px #F8A5C2;" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -49,7 +67,6 @@
 * 🚨 SOS Emergency Alerts
 * 📍 Live Location Tracking
 * 🤖 AI-based emotional assistance
-  👉 Focus: **Real-world impact + AI integration**
 
 ---
 
@@ -57,7 +74,6 @@
 
 * 📊 Data prediction models
 * 📈 Insight dashboards
-  👉 Focus: **practical ML usage**
 
 ---
 
@@ -65,7 +81,6 @@
 
 * 🔐 Authentication systems
 * 📊 Interactive dashboards
-  👉 Focus: **clean UI + functionality**
 
 ---
 
@@ -107,7 +122,7 @@
 
 💜 Debugging at 2AM = Character Development
 
-🚀 Goal: Build impactful AI solutions for real-world problems
+🚀 Goal: Build impactful AI solutions
 
 ---
 
