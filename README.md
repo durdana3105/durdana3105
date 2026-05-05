@@ -13,9 +13,13 @@
 ## 🌸 About Me
 
 💜 CSE (AI & ML) Student with strong focus on **problem solving + real-world projects**
+
 💡 Microsoft Learn Student Ambassador (Beta)
+
 🚀 Built multiple projects including **AI-powered safety systems**
+
 🎤 Conducted workshops & tech sessions
+
 🧠 Currently improving **DSA + System Design basics**
 
 ---
@@ -23,7 +27,9 @@
 ## 🎯 What Makes Me Different
 
 ✨ I don’t just learn — I **build & ship projects**
+
 ✨ Strong balance of **AI + Development + Problem Solving**
+
 ✨ Active in **hackathons, coding contests & community work**
 
 ---
@@ -98,7 +104,9 @@
 ## 🎀 Fun Zone
 
 ☕ Coffee + Code = Productivity
+
 💜 Debugging at 2AM = Character Development
+
 🚀 Goal: Build impactful AI solutions for real-world problems
 
 ---
