@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durdana Sultana</h1>
 <h3 align="center">🚀 AI/ML Student | Web Developer | Problem Solver from India</h3>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="girl coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durdana3105&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=durdana3105&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=durdana3105&theme=tokyonight" />
 </p>
 
