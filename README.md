@@ -36,7 +36,7 @@ style="border-radius:20px; box-shadow:0 0 40px #F8A5C2;" />
 
 🚀 Built multiple projects including **AI-powered safety systems**
 
-🎤 Conducted workshops & tech sessions
+🎤 Conducted workshops & tech sessions 🙌
 
 🧠 Currently improving **DSA + System Design basics**
 
