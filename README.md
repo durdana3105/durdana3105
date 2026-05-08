@@ -120,7 +120,7 @@ style="border-radius:20px; box-shadow:0 0 40px #F8A5C2;" />
 
 ☕ Coffee + Code = Productivity
 
-💜 Debugging at 2AM = Character Development
+💜 Debugging at 2AM = Character Development 👌
 
 🚀 Goal: Build impactful AI solutions
 
