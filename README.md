@@ -44,7 +44,7 @@ style="border-radius:20px; box-shadow:0 0 40px #F8A5C2;" />
 
 ## 🎯 What Makes Me Different
 
-✨ I don’t just learn — I **build & ship projects**
+✨ I don’t just learn I **build & ship projects**
 
 ✨ Strong balance of **AI + Development + Problem Solving**
 
