@@ -110,7 +110,6 @@ style="border-radius:20px; box-shadow:0 0 40px #F8A5C2;" />
 <p align="center">
 <a href="https://twitter.com/aizakhan3105"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 <a href="https://linkedin.com/in/durdana-sultana-499464294/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://leetcode.com/u/durdanasultana06/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/></a>
 <a href="https://discordapp.com/users/1088909936588771419"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
