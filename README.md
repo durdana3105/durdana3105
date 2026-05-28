@@ -126,19 +126,13 @@
 
 ---
 
----
-
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/durdana3105">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=durdana3105&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FB3&icon_color=A78BFA&text_color=FFFFFF"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=durdana3105&show_icons=true&theme=radical&hide_border=true"/>
 
-<a href="https://github.com/durdana3105">
-  <img width="49%" src="https://streak-stats.demolab.com?user=durdana3105&theme=radical&hide_border=true&background=0D1117&ring=F78FB3&fire=A78BFA&currStreakLabel=FFFFFF"/>
-</a>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=durdana3105&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -146,9 +140,7 @@
 
 <div align="center">
 
-<a href="https://github.com/durdana3105">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durdana3105&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78FB3&text_color=FFFFFF"/>
-</a>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durdana3105&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -156,7 +148,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=durdana3105&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=durdana3105&theme=radical&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -164,7 +156,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durdana3105&bg_color=0D1117&color=F78FB3&line=A78BFA&point=FFFFFF&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durdana3105&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -175,9 +167,6 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=durdana3105&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 
 </div>
-
----
-
 # 🏆 Achievements
 
 - 🏅 Microsoft Learn Student Ambassador (Beta)
