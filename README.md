@@ -124,23 +124,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
----
-
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=durdana3105&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=durdana3105&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=durdana3105&theme=radical&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durdana3105&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=durdana3105&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -148,7 +138,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=durdana3105&theme=radical&no-frame=true&margin-w=10"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durdana3105&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -156,7 +146,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durdana3105&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=durdana3105&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -164,9 +154,11 @@
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=durdana3105&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durdana3105&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
+<br>
+
 # 🏆 Achievements
 
 - 🏅 Microsoft Learn Student Ambassador (Beta)
