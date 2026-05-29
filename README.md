@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78FB3,100:A78BFA&height=250&section=header&text=Durdana%20Sultana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # Hey, I'm Durdana Sultana 👋
-### AI/ML Enthusiast • Open Source Contributor • Cybersecurity Learner
+### AI/ML Enthusiast • Open Source Contributor • Software Engineering Aspirant
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=F78FB3&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast+🧠;Open+Source+Contributor+🚀;Cybersecurity+Learner+🔐;Building+Impactful+Tech+Solutions+💜" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=F78FB3&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast+🧠;Open+Source+Contributor+🚀;Software+Engineering+aspirant🔐;Building+Impactful+Tech+Solutions+💜" alt="Typing animation" />
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=durdana3105&label=Profile%20views&color=F78FB3&style=for-the-badge">
