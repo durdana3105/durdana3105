@@ -124,24 +124,25 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-# 📈 GitHub Analytics
+<h3>📊 GitHub Stats</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durdana3105&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=durdana3105&show_icons=true&theme=tokyonight&hide_border=true" />
-<br>
-<img height="180em" src="https://streak-stats.demolab.com?user=durdana3105&theme=tokyonight&hide_border=true"/>
-<br>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durdana3105&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durdana3105&theme=tokyonight" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durdana3105&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durdana3105&theme=tokyonight&utcOffset=5.5" />
+</p>
 
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=durdana3105&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durdana3105&theme=tokyo-night" />
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=durdana3105&theme=tokyonight&hide_border=true" />
+</p>
 # 🏆 Achievements
 
 - 🏅 Microsoft Learn Student Ambassador (Beta)
