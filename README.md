@@ -130,7 +130,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=durdana3105&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=durdana3105&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=durdana3105&theme=tokyonight&hide_border=true"/>
 
 </div>
 
