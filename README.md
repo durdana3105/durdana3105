@@ -30,8 +30,8 @@
 # 🚀 About Me
 
 - 🎓 CSE (AI & ML) Student at LIET.
-- 💡 Microsoft Learn Student Ambassador (Beta).
-- 🚀 GSSOC Project Admin & Open Source Contributor.
+- 💡 Microsoft Learn Student Ambassador (Beta)
+- 🚀 GSSOC Project Admin & Open Source Contributor
 - 🧠 Passionate about AI, Cybersecurity & Full Stack Development.
 - 🎤 Conducted workshops & technical sessions
 - ⚡ Love building impactful real-world solutions
